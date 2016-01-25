@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculate 163</string>
+    <string name="edit_message">Enter comma-separated numbers</string>
+    <string name="button_send">Calculate</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">Results</string>
+</resources>
